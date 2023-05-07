@@ -3,6 +3,10 @@
 
 Click [here](https://github.com/gitname/react-gh-pages) to check the tutorial.
 
+Click [here](https://nathanshuai.github.io/react-gh-pages) to check my page.
+
+
+
 <br />
 
 ### react-gh-pages
