@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
 
-Click [https://github.com/gitname/react-gh-pages]() to check the tutorial.
+Click [here](https://github.com/gitname/react-gh-pages) to check the tutorial.
 
 <br />
 
-# react-gh-pages
+### react-gh-pages
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="65">
