@@ -1,6 +1,6 @@
 # react-gh-pages
 
-Click [https://github.com/gitname/react-gh-pages]() to check the tutorial.
+Click [here](https://github.com/gitname/react-gh-pages) to check the tutorial.
 
 <br />
 
